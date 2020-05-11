@@ -1,0 +1,23 @@
+{
+  "name": "second-partial-exam",
+  "version": "1.0.0",
+  "description": "Exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon Coding-Challenge-1/js/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoPartida7/second_exam.git"
+  },
+  "author": "DiegoP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoPartida7/second_exam/issues"
+  },
+  "homepage": "https://github.com/DiegoPartida7/second_exam#readme",
+  "dependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
